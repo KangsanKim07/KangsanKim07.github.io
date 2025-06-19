@@ -45,7 +45,7 @@ Findings of the Association for Computational Linguistics (<span style="color:da
 - <font size="4"><b>VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding</b></font>
 [[paper]](https://arxiv.org/abs/2412.02186) [[poster]](https://www.dropbox.com/scl/fi/y8k2ibj7gptq1cnrmyc67/videoicl_cvpr25_poster.pdf?rlkey=gh8h20f9xgjhh24wqqijiwc8l&st=2eajus6r&dl=0) [[code]](https://github.com/KangsanKim07/VideoICL) <br>
 &#x200B;**Kangsan Kim\***, Geon Park\*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
-Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025
+Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025
 
 (*: equal contribution)
 
