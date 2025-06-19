@@ -27,6 +27,11 @@ My research interest lies in developing AI assistants that understand the world 
 
 # 📝 Publications 
 
+- <font size="4"><b>Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models</b></font> 
+[[project page]](https://silent-branding.github.io/) [[paper]](https://arxiv.org/abs/2503.09669) <br>
+&#x200B;Sangwon Jang, June Suk Choi, <U>Jaehyeong Jo</U>, Kimin Lee^, Sung Ju Hwang^ <br>
+<span style="color:darkred">**CVPR**</span> 2025
+
 * ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
     Youngwan Lee, **Kangsan Kim**, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
     <span style="color:darkred">**Arxiv**</span> 2025 <br>
