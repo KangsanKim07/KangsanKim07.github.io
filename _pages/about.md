@@ -30,24 +30,23 @@ My research interest lies in developing AI assistants that understand the world 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+* ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
+    Youngwan Lee, **Kangsan Kim**, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
+    <span style="color:darkred">**Arxiv**</span> 2025 <br>
+   [[Project page]](https://youngwanlee.github.io/holisafe/) / [[paper]](https://www.arxiv.org/pdf/2506.04704) / [[code]](https://github.com/youngwanLEE/holisafe)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+ * ## VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding <br>
+    **Kangsan Kim***, Geon Park*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
+    Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025  <br>
+    [[paper]](https://arxiv.org/abs/2412.02186) / [[poster]](https://www.dropbox.com/scl/fi/y8k2ibj7gptq1cnrmyc67/videoicl_cvpr25_poster.pdf?rlkey=gh8h20f9xgjhh24wqqijiwc8l&st=2eajus6r&dl=0) / [[code]](https://github.com/KangsanKim07/VideoICL) <br>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* Qualcomm-KAIST Innovation Award. 
+- *2020.09* Dean’s List, College of Engineering. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03 - Current*, Ph.D. in Artificial Intelligence, KAIST.
+- *2018.03 - 2024.02*, B.S. in Computer Science, KAIST. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -55,4 +54,4 @@ My research interest lies in developing AI assistants that understand the world 
 
 # 💻 Internships
 - *2022.10 - 2023.07*, [B GARAGE](https://www.bgarage.ai/), San Jose, CA.
-- *2021.07 - 2021.10*, [NAVER](https://papago.naver.com/), remote.
+- *2021.07 - 2021.10*, [NAVER(Papago)](https://papago.naver.com/), remote.
