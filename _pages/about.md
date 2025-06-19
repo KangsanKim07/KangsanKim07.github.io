@@ -27,22 +27,22 @@ My research interest lies in developing AI assistants that understand the world 
 
 # 📝 Publications 
 
-- <font size="4">HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model</font>
+- <font size="4"><b>HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model</b></font>
 [[project page]](https://youngwanlee.github.io/holisafe/) [[paper]](https://www.arxiv.org/pdf/2506.04704) [[code]](https://github.com/youngwanLEE/holisafe) <br>
 &#x200B;Youngwan Lee, **Kangsan Kim**, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
 <span style="color:darkred">**Arxiv**</span> 2025
 
-- <font size="4">UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</font>
+- <font size="4"><b>UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</b></font>
 [[project page]](https://universalrag.github.io/) [[paper]](https://arxiv.org/abs/2504.20734) [[code]](https://github.com/wgcyeo/UniversalRAG) <br>
 &#x200B;Woongyeong Yeo\*, **Kangsan Kim**\*, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang <br>
 <span style="color:darkred">**Arxiv**</span> 2025
 
-- <font size="4">VideoRAG: Retrieval-Augmented Generation over Video Corpus</font>
+- <font size="4"><b>VideoRAG: Retrieval-Augmented Generation over Video Corpus</b></font>
 [[paper]](https://arxiv.org/abs/2501.05874) [[code]](https://github.com/starsuzi/VideoRAG) <br>
 &#x200B;Soyeong Jeong\*, Kangsan Kim\*, Jinheon Baek\*, Sung Ju Hwang <br>
 Findings of the Association for Computational Linguistics (<span style="color:darkred">**ACL Findings**</span>) 2025
 
-- <font size="4">VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding</font>
+- <font size="4"><b>VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding</b></font>
 [[paper]](https://arxiv.org/abs/2412.02186) [[poster]](https://www.dropbox.com/scl/fi/y8k2ibj7gptq1cnrmyc67/videoicl_cvpr25_poster.pdf?rlkey=gh8h20f9xgjhh24wqqijiwc8l&st=2eajus6r&dl=0) [[code]](https://github.com/KangsanKim07/VideoICL) <br>
 &#x200B;**Kangsan Kim**\*, Geon Park\*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
 Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025
