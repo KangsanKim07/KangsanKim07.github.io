@@ -20,9 +20,9 @@ redirect_from:
 My research interest lies in developing AI assistants that understand the world and interact with humans through visual data. Previous works focus on video understanding for real-world applications, including out-of-domain video understanding and video-based multimodal RAG. I am also interested in embodied AI models that operate on egocentric streaming video to assist humans in everyday life.
 
 # 🔥 News
-- *2025.04*: &nbsp;📖 HoliSafe is released.
+- *2025.04*: &nbsp;📖 HoliSafe is released at [arXiv](https://www.arxiv.org/abs/2506.04704).
 - *2025.05*: &nbsp;🎉 VideoRAG got accepted to ACL Findings 2025.
-- *2025.04*: &nbsp;📖 UniversalRAG is released.
+- *2025.04*: &nbsp;📖 UniversalRAG is released at [arXiv](https://arxiv.org/abs/2504.20734).
 - *2025.02*: &nbsp;🎉 VideoICL got accepted to CVPR 2025.
 
 # 📝 Publications 
