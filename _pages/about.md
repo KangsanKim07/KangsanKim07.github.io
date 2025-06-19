@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 ---
 
-**Kangsan Kim (김강산)** (kksan07 \[at] kaist \[dot] ac \[dot] kr), and here is my [CV (Curriculum Vitae)]().
+**Kangsan Kim (김강산)** (kksan07 \[at] kaist \[dot] ac \[dot] kr), and here is my [CV (Curriculum Vitae)](assets/Curriculum_Vitae.pdf).
 
 ---
 
