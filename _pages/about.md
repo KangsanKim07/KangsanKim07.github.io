@@ -16,8 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-My research interest lies in developing AI assistants that understand the world and interact with humans through visual data. Previous works focus on video understanding for real-world applications, including out-of-domain video understanding and video-based multimodal RAG. I am also interested in embodied AI models that operate on egocentric streaming video to assist humans in everyday life.
+I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://www.mlai-kaist.com)), fortunate to be advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com). My research interest lies in developing AI assistants that understand the world and interact with humans through visual data. Previous works focus on video understanding for real-world applications, including out-of-domain video understanding and video-based multimodal RAG. I am also interested in embodied AI models that operate on egocentric streaming video to assist humans in everyday life. Here is my CV (Curriculum Vitae).
 
 # 🔥 News
 - *2025.05*: &nbsp;📖 HoliSafe is released on [arXiv](https://www.arxiv.org/abs/2506.04704).
