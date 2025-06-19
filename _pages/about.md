@@ -28,7 +28,7 @@ My research interest lies in developing AI assistants that understand the world 
 # 📝 Publications 
 
 - <font size="4"><b>HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model</b></font>
-[[project page]](https://youngwanlee.github.io/holisafe/) [[paper]](https://www.arxiv.org/pdf/2506.04704) [[code]](https://github.com/youngwanLEE/holisafe) <br>
+[[project page]](https://youngwanlee.github.io/holisafe/) [[paper]](https://www.arxiv.org/abs/2506.04704) [[code]](https://github.com/youngwanLEE/holisafe) <br>
 &#x200B;Youngwan Lee, **Kangsan Kim**, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
 <span style="color:darkred">**Arxiv**</span> 2025
 
