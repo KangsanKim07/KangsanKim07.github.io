@@ -27,16 +27,13 @@ My research interest lies in developing AI assistants that understand the world 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 * ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
     Youngwan Lee, **Kangsan Kim**, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
     <span style="color:darkred">**Arxiv**</span> 2025 <br>
    [[Project page]](https://youngwanlee.github.io/holisafe/) / [[paper]](https://www.arxiv.org/pdf/2506.04704) / [[code]](https://github.com/youngwanLEE/holisafe)
 
  * ## VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding <br>
-    **Kangsan Kim***, Geon Park*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
+    **Kangsan Kim**\*, Geon Park\*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
     Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025  <br>
     [[paper]](https://arxiv.org/abs/2412.02186) / [[poster]](https://www.dropbox.com/scl/fi/y8k2ibj7gptq1cnrmyc67/videoicl_cvpr25_poster.pdf?rlkey=gh8h20f9xgjhh24wqqijiwc8l&st=2eajus6r&dl=0) / [[code]](https://github.com/KangsanKim07/VideoICL) <br>
 
