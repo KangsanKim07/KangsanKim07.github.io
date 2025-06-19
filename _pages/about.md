@@ -27,30 +27,25 @@ My research interest lies in developing AI assistants that understand the world 
 
 # 📝 Publications 
 
-- <font size="4"><b>Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models</b></font> 
-[[project page]](https://silent-branding.github.io/) [[paper]](https://arxiv.org/abs/2503.09669) <br>
-&#x200B;Sangwon Jang, June Suk Choi, <U>Jaehyeong Jo</U>, Kimin Lee^, Sung Ju Hwang^ <br>
-<span style="color:darkred">**CVPR**</span> 2025
+- <b>HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model</b>
+[[project page]](https://youngwanlee.github.io/holisafe/) [[paper]](https://www.arxiv.org/pdf/2506.04704) [[code]](https://github.com/youngwanLEE/holisafe) <br>
+&#x200B;Youngwan Lee, **Kangsan Kim**, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
+<span style="color:darkred">**Arxiv**</span> 2025
 
-* ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
-    Youngwan Lee, **Kangsan Kim**, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
-    <span style="color:darkred">**Arxiv**</span> 2025 <br>
-   [[project page]](https://youngwanlee.github.io/holisafe/) / [[paper]](https://www.arxiv.org/pdf/2506.04704) / [[code]](https://github.com/youngwanLEE/holisafe)
+- <b>UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</b>
+[[project page]](https://universalrag.github.io/) [[paper]](https://arxiv.org/abs/2504.20734) [[code]](https://github.com/wgcyeo/UniversalRAG) <br>
+&#x200B;Woongyeong Yeo\*, **Kangsan Kim**\*, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang <br>
+<span style="color:darkred">**Arxiv**</span> 2025
 
-* ## UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities <br>
-    Woongyeong Yeo\*, **Kangsan Kim**\*, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang <br>
-    <span style="color:darkred">**Arxiv**</span> 2025 <br>
-    [[project page]](https://universalrag.github.io/) / [[paper]](https://arxiv.org/abs/2504.20734) / [[code]](https://github.com/wgcyeo/UniversalRAG)
+- <b>VideoRAG: Retrieval-Augmented Generation over Video Corpus</b>
+[[paper]](https://arxiv.org/abs/2501.05874) [[code]](https://github.com/starsuzi/VideoRAG) <br>
+&#x200B;Soyeong Jeong\*, Kangsan Kim\*, Jinheon Baek\*, Sung Ju Hwang <br>
+Findings of the Association for Computational Linguistics (<span style="color:darkred">**ACL Findings**</span>) 2025
 
-* ## VideoRAG: Retrieval-Augmented Generation over Video Corpus <br>
-    Soyeong Jeong\*, Kangsan Kim\*, Jinheon Baek\*, Sung Ju Hwang <br>
-    Findings of the Association for Computational Linguistics (<span style="color:darkred">**ACL Findings**</span>) 2025  <br>
-    [[paper]](https://arxiv.org/abs/2501.05874) / [[code]](https://github.com/starsuzi/VideoRAG)
-
-* ## VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding <br>
-    **Kangsan Kim**\*, Geon Park\*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
-    Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025  <br>
-    [[paper]](https://arxiv.org/abs/2412.02186) / [[poster]](https://www.dropbox.com/scl/fi/y8k2ibj7gptq1cnrmyc67/videoicl_cvpr25_poster.pdf?rlkey=gh8h20f9xgjhh24wqqijiwc8l&st=2eajus6r&dl=0) / [[code]](https://github.com/KangsanKim07/VideoICL) <br>
+- <b>VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding</b>
+[[paper]](https://arxiv.org/abs/2412.02186) [[poster]](https://www.dropbox.com/scl/fi/y8k2ibj7gptq1cnrmyc67/videoicl_cvpr25_poster.pdf?rlkey=gh8h20f9xgjhh24wqqijiwc8l&st=2eajus6r&dl=0) [[code]](https://github.com/KangsanKim07/VideoICL) <br>
+&#x200B;**Kangsan Kim**\*, Geon Park\*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
+Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025
 
 # 🎖 Honors and Awards
 - *2023.06* Qualcomm-KAIST Innovation Award. 
