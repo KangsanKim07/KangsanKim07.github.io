@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 ---
 
-**Kangsan Kim (김강산)** (kksan07 \[at] kaist \[dot] ac \[dot] kr), and here is my [CV (Curriculum Vitae)]()
+**Kangsan Kim (김강산)** (kksan07 \[at] kaist \[dot] ac \[dot] kr), and here is my [CV (Curriculum Vitae)]().
 
 ---
 
 I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://www.mlai-kaist.com)), fortunate to be advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com). 
 
-My research interest lies in developing AI assistants that comprehend the world and interact with humans through visual data. Previous works focus on video understanding and multimodal RAG. I am also interested in embodied AI models that operate on egocentric video and require spatial reasoning ability.
+My research interest lies in developing AI assistants that comprehend the world and interact with humans through visual data. Previous works focus on video understanding and multimodal Retrieval-Augmented Generation (RAG). I am also interested in embodied AI models that operate on egocentric video and require spatial reasoning ability.
 
 # 🔥 News
 - *2025.05*: &nbsp;📖 HoliSafe is released on [arXiv](https://www.arxiv.org/abs/2506.04704).
