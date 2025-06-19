@@ -54,4 +54,5 @@ My research interest lies in developing AI assistants that understand the world 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.10 - 2023.07*, [B GARAGE](https://www.bgarage.ai/), San Jose, CA.
+- *2021.07 - 2021.10*, [NAVER](https://papago.naver.com/), remote.
