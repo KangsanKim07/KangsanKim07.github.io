@@ -45,7 +45,7 @@ My research focuses on developing multimodal large language models (MLLMs) that 
 <span style="color:darkred">**Arxiv**</span> 2025
 
 - <font size="4"><b>VideoRAG: Retrieval-Augmented Generation over Video Corpus</b></font>
-[[paper]](https://arxiv.org/abs/2501.05874) [[code]](https://github.com/starsuzi/VideoRAG) <br>
+[[paper]](https://arxiv.org/abs/2501.05874) [[poster]](assets/poster/[ACL2025]VideoRAG_poster.pdf) [[code]](https://github.com/starsuzi/VideoRAG) <br>
 &#x200B;Soyeong Jeong\*, **Kangsan Kim\***, Jinheon Baek\*, Sung Ju Hwang <br>
 Findings of the Association for Computational Linguistics (<span style="color:darkred">**ACL Findings**</span>) 2025
 
