@@ -50,7 +50,7 @@ My research focuses on developing multimodal large language models (MLLMs) that 
 Findings of the Association for Computational Linguistics (<span style="color:darkred">**ACL Findings**</span>) 2025
 
 - <font size="4"><b>VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding</b></font>
-[[paper]](https://arxiv.org/abs/2412.02186) [[poster]](assets/poster/VideoICL.pdf) [[code]](https://github.com/KangsanKim07/VideoICL) <br>
+[[paper]](https://arxiv.org/abs/2412.02186) [[poster]](https://drive.google.com/file/d/1bSE0MZVCmNDr8i_FSfOsGmgKpLCaS9Kf/view?usp=sharing) [[code]](https://github.com/KangsanKim07/VideoICL) <br>
 &#x200B;**Kangsan Kim\***, Geon Park\*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
 Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025
 
