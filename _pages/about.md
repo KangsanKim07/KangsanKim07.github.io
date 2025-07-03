@@ -57,18 +57,19 @@ Conference on Computer Vision and Pattern Recognition (<span style="color:darkre
 
 (*: equal contribution)
 
-# 🏆 Honors and Awards
-- *2023.06* Qualcomm-KAIST Innovation Award. 
-- *2020.09* Dean’s List, College of Engineering. 
+# 💻 Experiences
+- *2025.07 - Current*, [New York University](https://wp.nyu.edu/cilvr/), Visiting Scholar, Brooklyn, NY.
+- *2022.10 - 2023.07*, [B GARAGE](https://www.bgarage.ai/), Computer Vision Engineer Intern, San Jose, CA.
+- *2021.07 - 2021.10*, [NAVER (Papago)](https://papago.naver.com/), Machine Learning(NLP) Scientist Intern, Remote.
 
 # 📖 Educations
 - *2024.03 - Current*, Ph.D. in Artificial Intelligence, Korea Advanced Institute of Science and Technology (KAIST).
 - *2018.03 - 2024.02*, B.S. in Computer Science, Korea Advanced Institute of Science and Technology (KAIST). 
 
+# 🏆 Honors and Awards
+- *2023.06* Qualcomm-KAIST Innovation Award. 
+- *2020.09* Dean’s List, College of Engineering. 
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internships
-- *2022.10 - 2023.07*, [B GARAGE](https://www.bgarage.ai/), San Jose, CA.
-- *2021.07 - 2021.10*, [NAVER (Papago)](https://papago.naver.com/), remote.
