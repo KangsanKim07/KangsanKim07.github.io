@@ -58,19 +58,17 @@ Conference on Computer Vision and Pattern Recognition (<span style="color:darkre
 (*: equal contribution)
 
 # 💻 Experiences
-- [New York University](https://wp.nyu.edu/cilvr/) <br>
+- Visiting Scholar, [New York University](https://wp.nyu.edu/cilvr/) <br>
 *2025.07 - Current*, Brooklyn, NY, USA <br>
-Visiting Scholar, Advisor: Professor [Mengye Ren](https://mengyeren.com)
+Advisor: Professor [Mengye Ren](https://mengyeren.com) <br>
 Studying multi-agent parallel egocentric video stream understanding.
 
-- [B GARAGE](https://www.bgarage.ai/) <br>
+- Computer Vision Engineer Intern, [B GARAGE](https://www.bgarage.ai/) <br>
 *2022.10 - 2023.07*, San Jose, CA, USA <br>
-Computer Vision Engineer Intern <br>
 Developed an ultra-fast edge instance segmentation model that can segment anything in the warehouse.
 
-- [NAVER](https://papago.naver.com/) <br>
+- Machine Learning(NLP) Scientist Intern, [NAVER](https://papago.naver.com/) <br>
 *2021.07 - 2021.10*, Remote <br>
-Machine Learning(NLP) Scientist Intern <br>
 Built and improved end-to-end Korean-English speech translation model.
 
 # 📖 Educations
