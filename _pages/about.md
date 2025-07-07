@@ -60,7 +60,7 @@ Conference on Computer Vision and Pattern Recognition (<span style="color:darkre
 # 💻 Experiences
 - <b>Visiting Scholar, [New York University](https://www.nyu.edu)</b> <br>
 *2025.07 - Current*, Brooklyn, NY, USA  <br>
-Advisor: Professor [Mengye Ren](https://mengyeren.com) <br>
+Advisor: Prof. [Mengye Ren](https://mengyeren.com) <br>
 Studying multi-agent parallel egocentric video stream understanding.
 
 - <b>Computer Vision Engineer Intern, [B GARAGE](https://www.bgarage.ai/)</b> <br>
