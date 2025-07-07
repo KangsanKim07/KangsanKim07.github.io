@@ -58,7 +58,7 @@ Conference on Computer Vision and Pattern Recognition (<span style="color:darkre
 (*: equal contribution)
 
 # 💻 Experiences
-- <b>Visiting Scholar, [New York University](https://wp.nyu.edu/cilvr/)</b> <br>
+- <b>Visiting Scholar, [New York University](https://www.nyu.edu)</b> <br>
 *2025.07 - Current*, Brooklyn, NY, USA  <br>
 Advisor: Professor [Mengye Ren](https://mengyeren.com) <br>
 Studying multi-agent parallel egocentric video stream understanding.
