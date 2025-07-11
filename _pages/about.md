@@ -27,7 +27,7 @@ I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://w
 My research focuses on developing multimodal large language models (MLLMs) that understand the world and interact with humans through visual data. I have previously worked on video understanding and multimodal Retrieval-Augmented Generation (RAG). I am also interested in embodied AI models that operate on egocentric video and require spatial reasoning capabilities.
 
 # 🔥 News
-- *2025.07*: &nbsp;🗽 Joined NYU as a visiting scholar under Prof. [Mengye Ren](https://mengyeren.com).
+- *2025.07*: &nbsp;🗽 Joined NYU as a visiting student under Prof. [Mengye Ren](https://mengyeren.com).
 - *2025.05*: &nbsp;📖 HoliSafe is released on [arXiv](https://www.arxiv.org/abs/2506.04704).
 - *2025.05*: &nbsp;🎉 VideoRAG got accepted to ACL Findings 2025.
 - *2025.04*: &nbsp;📖 UniversalRAG is released on [arXiv](https://arxiv.org/abs/2504.20734).
@@ -58,10 +58,10 @@ Conference on Computer Vision and Pattern Recognition (<span style="color:darkre
 (*: equal contribution)
 
 # 💻 Experiences
-- <b>Visiting Scholar, [New York University](https://www.nyu.edu)</b> <br>
+- <b>Visiting Student, [New York University](https://www.nyu.edu)</b> <br>
 *2025.07 - Current*, Brooklyn, NY, USA  <br>
 Advisor: Prof. [Mengye Ren](https://mengyeren.com) <br>
-Studying multi-agent parallel egocentric video stream understanding.
+Studying question answering over egocentric video streams from multiple embodied agents.
 
 - <b>Computer Vision Engineer Intern, [B GARAGE](https://www.bgarage.ai/)</b> <br>
 *2022.10 - 2023.07*, San Jose, CA, USA <br>
