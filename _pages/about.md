@@ -27,7 +27,7 @@ I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://w
 My research focuses on developing multimodal large language models (MLLMs) that understand the world and interact with humans through visual data. I have previously worked on video understanding and multimodal Retrieval-Augmented Generation (RAG). I am also interested in embodied AI models that operate on egocentric video and require spatial reasoning capabilities.
 
 # 🔥 News
-- *2025.07*: &nbsp;<img src="assets/nyu.png" alt="NYU" width="30" style="vertical-align: middle;" /> Joined NYU as a visiting student under Prof. [Mengye Ren](https://mengyeren.com).
+- *2025.07*: &nbsp;<img src="assets/nyu.png" alt="NYU" width="23" style="vertical-align: middle;" /> Joined NYU as a visiting student under Prof. [Mengye Ren](https://mengyeren.com).
 - *2025.05*: &nbsp;📖 HoliSafe is released on [arXiv](https://www.arxiv.org/abs/2506.04704).
 - *2025.05*: &nbsp;🎉 VideoRAG got accepted to ACL Findings 2025.
 - *2025.04*: &nbsp;📖 UniversalRAG is released on [arXiv](https://arxiv.org/abs/2504.20734).
