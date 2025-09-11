@@ -79,6 +79,8 @@ Built and improved end-to-end Korean-English speech translation model.
 - *2023.06* Qualcomm-KAIST Innovation Award. 
 - *2020.09* Dean’s List, College of Engineering. 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Invited Talks
+- <b>VideoRAG: Retrieval-Augmented Generation over Video Corpus, and Beyond</b> <br>
+*2025.09*, Multimodal Weekly hosted by TwelveLabs, Online | [[post]](https://www.linkedin.com/posts/twelvelabs_multimodalweekly-activity-7371294497265213440-CNY-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADq_WTEBJ1arpdNe6GtaINJTvwqeAxpc-vo)
+- <b>Video as a Knowledge Source: Video-based Retrieval-Augmented Generation in Diverse Scenarios</b> <br>
+*2025.09*, NYU Global AI Frontier Lab, Brooklyn, NY, USA
