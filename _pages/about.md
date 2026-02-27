@@ -24,26 +24,37 @@ redirect_from:
 
 I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://www.mlai-kaist.com)), fortunate to be advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com). 
 
-My research focuses on developing multimodal large language models (MLLMs) that understand the world and interact with humans through visual data. I have previously worked on video understanding and multimodal Retrieval-Augmented Generation (RAG). I am also interested in embodied AI models that operate on egocentric video and require spatial reasoning capabilities.
+My research focuses on developing multimodal large language models (MLLMs) that understand the world and interact with humans through visual data. I have previously worked on video understanding and multimodal Retrieval-Augmented Generation (RAG). I am also interested in embodied AI models that operate on egocentric video and real-world agents such as computer use agents and coding agents.
 
 # 🔥 News
+- *2026.02*: &nbsp;🇺🇸 WorldMM got accepted to CVPR 2026, and HoliSafe got accepted to CVPR 2026 Findings!
 - *2025.07*: &nbsp;<img src="assets/nyu.png" alt="NYU" width="20" style="vertical-align: middle;" /> Joined NYU as a visiting student under Prof. [Mengye Ren](https://mengyeren.com).
 - *2025.05*: &nbsp;📖 HoliSafe is released on [arXiv](https://www.arxiv.org/abs/2506.04704).
-- *2025.05*: &nbsp;🎉 VideoRAG got accepted to ACL Findings 2025.
+- *2025.05*: &nbsp;🇦🇹 VideoRAG got accepted to ACL Findings 2025.
 - *2025.04*: &nbsp;📖 UniversalRAG is released on [arXiv](https://arxiv.org/abs/2504.20734).
-- *2025.02*: &nbsp;🎉 VideoICL got accepted to CVPR 2025.
+- *2025.02*: &nbsp;🇺🇸 VideoICL got accepted to CVPR 2025.
 
 # 📝 Publications 
+
+- <b>MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents</b><br>
+[[paper(openreview)]](https://openreview.net/forum?id=wPr54hJYuF) <br>
+&#x200B;**Kangsan Kim**, Yanlai Yang, Suji Kim, Woongyeong Yeo, Youngwan Lee, Sung Ju Hwang†, Mengye Ren† <br>
+<span style="color:darkred">**Under Review**</span> 2026
+
+- <b>WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning</b> <br>
+[[project page]](https://worldmm.github.io/) [[paper]](https://arxiv.org/abs/2512.02425) [[code]](https://github.com/wgcyeo/WorldMM) <br>
+&#x200B;Woongyeong Yeo\*, **Kangsan Kim\***, Jaehong Yoon†, Sung Ju Hwang† <br>
+Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2026
 
 - <b>HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model</b> <br>
 [[project page]](https://youngwanlee.github.io/holisafe/) [[paper]](https://www.arxiv.org/abs/2506.04704) [[code]](https://github.com/youngwanLEE/holisafe) <br>
 &#x200B;Youngwan Lee, **Kangsan Kim**, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
-<span style="color:darkred">**Arxiv**</span> 2025
+Conference on Computer Vision and Pattern Recognition Findings(<span style="color:darkred">**CVPR Findings**</span>) 2025
 
 - <b>UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</b> <br>
 [[project page]](https://universalrag.github.io/) [[paper]](https://arxiv.org/abs/2504.20734) [[code]](https://github.com/wgcyeo/UniversalRAG) <br>
 &#x200B;Woongyeong Yeo\*, **Kangsan Kim\***, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang <br>
-<span style="color:darkred">**Arxiv**</span> 2025
+<span style="color:darkred">**Under Review**</span> 2025
 
 - <b>VideoRAG: Retrieval-Augmented Generation over Video Corpus</b> <br>
 [[paper]](https://arxiv.org/abs/2501.05874) [[poster]](assets/poster/VideoRAG.pdf) [[code]](https://github.com/starsuzi/VideoRAG) <br>
@@ -55,13 +66,13 @@ Findings of the Association for Computational Linguistics (<span style="color:da
 &#x200B;**Kangsan Kim\***, Geon Park\*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
 Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025
 
-(*: equal contribution)
+(*: equal contribution, †: equal advising)
 
 # 💻 Experiences
 - <b>Visiting Ph.D. Student, [New York University](https://www.nyu.edu)</b> <br>
-*2025.07 - Current*, Brooklyn, NY, USA  <br>
+*2025.07 - 2025.10*, Brooklyn, NY, USA  <br>
 Advisor: Prof. [Mengye Ren](https://mengyeren.com) <br>
-Studying question answering over egocentric video streams from multiple embodied agents.
+Studying question answering over egocentric video streams from multiple embodied agents. (MA-EgoQA)
 
 - <b>Computer Vision Engineer Intern, [B GARAGE](https://www.bgarage.ai/)</b> <br>
 *2022.10 - 2023.07*, San Jose, CA, USA <br>
@@ -80,7 +91,12 @@ Built and improved end-to-end Korean-English speech translation model.
 - *2020.09* Dean’s List, College of Engineering. 
 
 # 💬 Invited Talks
+- <b>WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning</b> <br>
+*2026.01*, Multimodal Weekly hosted by TwelveLabs, Online | [[post]](https://www.linkedin.com/posts/twelvelabs_multimodalweekly-activity-7417644198042148864--AA6/)
 - <b>VideoRAG: Retrieval-Augmented Generation over Video Corpus, and Beyond</b> <br>
 *2025.09*, Multimodal Weekly hosted by TwelveLabs, Online | [[post]](https://www.linkedin.com/posts/twelvelabs_multimodalweekly-activity-7371294497265213440-CNY-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADq_WTEBJ1arpdNe6GtaINJTvwqeAxpc-vo)
 - <b>Video as a Knowledge Source: Video-based Retrieval-Augmented Generation in Diverse Scenarios</b> <br>
 *2025.09*, NYU Global AI Frontier Lab, Brooklyn, NY, USA
+
+# 💯 Academic Service
+- Reviwer of ARR Jan 2026 and ICML 2026
