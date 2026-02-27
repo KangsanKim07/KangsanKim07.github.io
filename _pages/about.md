@@ -37,7 +37,7 @@ My research focuses on developing multimodal large language models (MLLMs) that 
 # 📝 Publications 
 
 - <b>MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents</b><br>
-[[paper(openreview)]](https://openreview.net/forum?id=wPr54hJYuF) <br>
+[[paper(openreview)]](https://openreview.net/forum?id=wPr54hJYuF) (WIP) <br>
 &#x200B;**Kangsan Kim**, Yanlai Yang, Suji Kim, Woongyeong Yeo, Youngwan Lee, Sung Ju Hwang†, Mengye Ren† <br>
 <span style="color:darkred">**under review**</span> 2026
 
