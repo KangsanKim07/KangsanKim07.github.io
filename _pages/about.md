@@ -49,7 +49,7 @@ Conference on Computer Vision and Pattern Recognition (<span style="color:darkre
 - <b>HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model</b> <br>
 [[project page]](https://youngwanlee.github.io/holisafe/) [[paper]](https://www.arxiv.org/abs/2506.04704) [[code]](https://github.com/youngwanLEE/holisafe) <br>
 &#x200B;Youngwan Lee, **Kangsan Kim**, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
-Conference on Computer Vision and Pattern Recognition Findings(<span style="color:darkred">**CVPR Findings**</span>) 2025
+Findings of Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR Findings**</span>) 2026
 
 - <b>UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</b> <br>
 [[project page]](https://universalrag.github.io/) [[paper]](https://arxiv.org/abs/2504.20734) [[code]](https://github.com/wgcyeo/UniversalRAG) <br>
