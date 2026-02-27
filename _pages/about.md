@@ -39,7 +39,7 @@ My research focuses on developing multimodal large language models (MLLMs) that 
 - <b>MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents</b><br>
 [[paper(openreview)]](https://openreview.net/forum?id=wPr54hJYuF) <br>
 &#x200B;**Kangsan Kim**, Yanlai Yang, Suji Kim, Woongyeong Yeo, Youngwan Lee, Sung Ju Hwang†, Mengye Ren† <br>
-<span style="color:darkred">**Under Review**</span> 2026
+<span style="color:darkred">**under review**</span> 2026
 
 - <b>WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning</b> <br>
 [[project page]](https://worldmm.github.io/) [[paper]](https://arxiv.org/abs/2512.02425) [[code]](https://github.com/wgcyeo/WorldMM) <br>
@@ -54,7 +54,7 @@ Conference on Computer Vision and Pattern Recognition Findings(<span style="colo
 - <b>UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</b> <br>
 [[project page]](https://universalrag.github.io/) [[paper]](https://arxiv.org/abs/2504.20734) [[code]](https://github.com/wgcyeo/UniversalRAG) <br>
 &#x200B;Woongyeong Yeo\*, **Kangsan Kim\***, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang <br>
-<span style="color:darkred">**Under Review**</span> 2025
+<span style="color:darkred">**under review**</span> 2025
 
 - <b>VideoRAG: Retrieval-Augmented Generation over Video Corpus</b> <br>
 [[paper]](https://arxiv.org/abs/2501.05874) [[poster]](assets/poster/VideoRAG.pdf) [[code]](https://github.com/starsuzi/VideoRAG) <br>
