@@ -27,18 +27,19 @@ I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://w
 My research focuses on developing multimodal large language models (MLLMs) that understand the world and interact with humans through visual data. I have previously worked on video understanding and multimodal Retrieval-Augmented Generation (RAG). I am also interested in embodied AI models that operate on egocentric video and real-world agents such as computer use agents and coding agents.
 
 # 🔥 News
+- *2026.03*: &nbsp;📖 MA-EgoQA: Multi-Agent Egocentric Video QA is released on [arxiv](https://arxiv.org/abs/2603.09827).
 - *2026.02*: &nbsp;🇺🇸 WorldMM got accepted to CVPR 2026, and HoliSafe got accepted to CVPR 2026 Findings!
 - *2025.07*: &nbsp;<img src="assets/nyu.png" alt="NYU" width="20" style="vertical-align: middle;" /> Joined NYU as a visiting student under Prof. [Mengye Ren](https://mengyeren.com).
 - *2025.05*: &nbsp;📖 HoliSafe is released on [arXiv](https://www.arxiv.org/abs/2506.04704).
 - *2025.05*: &nbsp;🇦🇹 VideoRAG got accepted to ACL Findings 2025.
 - *2025.04*: &nbsp;📖 UniversalRAG is released on [arXiv](https://arxiv.org/abs/2504.20734).
-- *2025.02*: &nbsp;🇺🇸 VideoICL got accepted to CVPR 2025.
+<!-- - *2025.02*: &nbsp;🇺🇸 VideoICL got accepted to CVPR 2025. -->
 
 # 📝 Publications 
 
 - <b>MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents</b><br>
-[[paper(openreview)]](https://openreview.net/forum?id=wPr54hJYuF) (WIP) <br>
-&#x200B;**Kangsan Kim**, Yanlai Yang, Suji Kim, Woongyeong Yeo, Youngwan Lee, Sung Ju Hwang†, Mengye Ren† <br>
+[[project page]](https://ma-egoqa.github.io/) [[paper]](https://arxiv.org/abs/2603.09827) [[code]](https://github.com/KangsanKim07/MA-EgoQA) <br>
+&#x200B;**Kangsan Kim**, Yanlai Yang, Suji Kim, Woongyeong Yeo, Youngwan Lee, Mengye Ren†, Sung Ju Hwang† <br>
 <span style="color:darkred">**under review**</span> 2026
 
 - <b>WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning</b> <br>
@@ -99,4 +100,4 @@ Built and improved end-to-end Korean-English speech translation model.
 *2025.09*, NYU Global AI Frontier Lab, Brooklyn, NY, USA
 
 # 💯 Academic Service
-- Reviwer of ARR Jan 2026 and ICML 2026
+- Reviewer of ARR Jan 2026 and ICML 2026
