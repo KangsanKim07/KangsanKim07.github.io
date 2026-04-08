@@ -27,12 +27,13 @@ I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://w
 My research focuses on developing multimodal large language models (MLLMs) that understand the world and interact with humans through visual data. I have previously worked on video understanding and multimodal Retrieval-Augmented Generation (RAG). I am also interested in embodied AI models that operate on egocentric video and real-world agents such as computer use agents and coding agents.
 
 # 🔥 News
+- *2026.04*: &nbsp;🇺🇸 UniversalRAG got accepted to ACL 2026 Main!
 - *2026.03*: &nbsp;📖 MA-EgoQA: Multi-Agent Egocentric Video QA is released on [arxiv](https://arxiv.org/abs/2603.09827).
 - *2026.02*: &nbsp;🇺🇸 WorldMM got accepted to CVPR 2026, and HoliSafe got accepted to CVPR 2026 Findings!
 - *2025.07*: &nbsp;<img src="assets/nyu.png" alt="NYU" width="20" style="vertical-align: middle;" /> Joined NYU as a visiting student under Prof. [Mengye Ren](https://mengyeren.com).
 - *2025.05*: &nbsp;📖 HoliSafe is released on [arXiv](https://www.arxiv.org/abs/2506.04704).
 - *2025.05*: &nbsp;🇦🇹 VideoRAG got accepted to ACL Findings 2025.
-- *2025.04*: &nbsp;📖 UniversalRAG is released on [arXiv](https://arxiv.org/abs/2504.20734).
+<!-- - *2025.04*: &nbsp;📖 UniversalRAG is released on [arXiv](https://arxiv.org/abs/2504.20734). -->
 <!-- - *2025.02*: &nbsp;🇺🇸 VideoICL got accepted to CVPR 2025. -->
 
 # 📝 Publications 
@@ -55,7 +56,7 @@ Findings of Conference on Computer Vision and Pattern Recognition (<span style="
 - <b>UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</b> <br>
 [[project page]](https://universalrag.github.io/) [[paper]](https://arxiv.org/abs/2504.20734) [[code]](https://github.com/wgcyeo/UniversalRAG) <br>
 &#x200B;Woongyeong Yeo\*, **Kangsan Kim\***, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang <br>
-<span style="color:darkred">**under review**</span> 2025
+Annual Meeting of the Association for Computational Linguistics (<span style="color:darkred">**ACL**</span>) 2026
 
 - <b>VideoRAG: Retrieval-Augmented Generation over Video Corpus</b> <br>
 [[paper]](https://arxiv.org/abs/2501.05874) [[poster]](assets/poster/VideoRAG.pdf) [[code]](https://github.com/starsuzi/VideoRAG) <br>
@@ -100,4 +101,4 @@ Built and improved end-to-end Korean-English speech translation model.
 *2025.09*, NYU Global AI Frontier Lab, Brooklyn, NY, USA
 
 # 💯 Academic Service
-- Reviewer of ARR Jan 2026 and ICML 2026
+- Reviewer of ARR Jan 2026, ICML 2026, and NeurIPS 2026
