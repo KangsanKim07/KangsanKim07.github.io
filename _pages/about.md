@@ -46,27 +46,27 @@ My research focuses on developing multimodal large language models (MLLMs) that 
 - <b>WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning</b> <br>
 [[project page]](https://worldmm.github.io/) [[paper]](https://arxiv.org/abs/2512.02425) [[code]](https://github.com/wgcyeo/WorldMM) <br>
 &#x200B;Woongyeong Yeo\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Jaehong Yoon†, Sung Ju Hwang† <br>
-Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2026 <span style="color:darkred">**HIGHLIGHT**</span>
+Conference on Computer Vision and Pattern Recognition (**CVPR**) 2026 <span style="color:darkred">**Highlight**</span>
 
 - <b>HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model</b> <br>
 [[project page]](https://youngwanlee.github.io/holisafe/) [[paper]](https://www.arxiv.org/abs/2506.04704) [[code]](https://github.com/youngwanLEE/holisafe) <br>
 &#x200B;Youngwan Lee, <span style="color:darkblue">**Kangsan Kim**</span>, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
-Findings of Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR Findings**</span>) 2026
+Findings of Conference on Computer Vision and Pattern Recognition (**CVPR Findings**) 2026
 
 - <b>UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</b> <br>
 [[project page]](https://universalrag.github.io/) [[paper]](https://arxiv.org/abs/2504.20734) [[code]](https://github.com/wgcyeo/UniversalRAG) <br>
 &#x200B;Woongyeong Yeo\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang <br>
-Annual Meeting of the Association for Computational Linguistics (<span style="color:darkred">**ACL**</span>) 2026
+Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026
 
 - <b>VideoRAG: Retrieval-Augmented Generation over Video Corpus</b> <br>
 [[paper]](https://arxiv.org/abs/2501.05874) [[poster]](assets/poster/VideoRAG.pdf) [[code]](https://github.com/starsuzi/VideoRAG) <br>
 &#x200B;Soyeong Jeong\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Jinheon Baek\*, Sung Ju Hwang <br>
-Findings of the Association for Computational Linguistics (<span style="color:darkred">**ACL Findings**</span>) 2025
+Findings of the Association for Computational Linguistics (**ACL Findings**) 2025
 
 - <b>VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding</b> <br>
 [[paper]](https://arxiv.org/abs/2412.02186) [[poster]](https://drive.google.com/file/d/1bSE0MZVCmNDr8i_FSfOsGmgKpLCaS9Kf/view?usp=sharing) [[code]](https://github.com/KangsanKim07/VideoICL) <br>
 &#x200B;<span style="color:darkblue">**Kangsan Kim\***</span>, Geon Park\*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
-Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025
+Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025
 
 (*: equal contribution, †: equal advising)
 
