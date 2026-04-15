@@ -38,6 +38,11 @@ My research focuses on developing multimodal large language models (MLLMs) that 
 
 # 📝 Publications 
 
+- <b>Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents</b><br>
+[[project page]](https://memorytransfer.github.io/) [[paper]]() [[code]]() <br>
+&#x200B;<span style="color:darkblue">**Kangsan Kim**</span>, Minki Kang, Taeil Kim, Yanlai Yang, Mengye Ren†, Sung Ju Hwang† <br>
+**under review** 2026
+
 - <b>MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents</b><br>
 [[project page]](https://ma-egoqa.github.io/) [[paper]](https://arxiv.org/abs/2603.09827) [[code]](https://github.com/KangsanKim07/MA-EgoQA) <br>
 &#x200B;<span style="color:darkblue">**Kangsan Kim**</span>, Yanlai Yang, Suji Kim, Woongyeong Yeo, Youngwan Lee, Mengye Ren†, Sung Ju Hwang† <br>
