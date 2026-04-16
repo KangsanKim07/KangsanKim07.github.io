@@ -27,6 +27,7 @@ I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://w
 My research focuses on developing multimodal large language models (MLLMs) that understand the world and interact with humans through visual data. I have previously worked on video understanding and multimodal Retrieval-Augmented Generation (RAG). I am also interested in embodied AI models that operate on egocentric video and real-world agents such as computer use agents and coding agents.
 
 # 🔥 News
+- *2026.04*: &nbsp;📖 Memory Transfer Learning, which studies cross-domain memory transfer in coding agents, is released on [arxiv](https://arxiv.org/abs/2604.14004).
 - *2026.04*: &nbsp;🇺🇸 UniversalRAG got accepted to ACL 2026 Main!
 - *2026.03*: &nbsp;📖 MA-EgoQA: Multi-Agent Egocentric Video QA is released on [arxiv](https://arxiv.org/abs/2603.09827).
 - *2026.02*: &nbsp;🇺🇸 WorldMM got accepted to CVPR 2026 Highlight, and HoliSafe got accepted to CVPR 2026 Findings!
@@ -39,7 +40,7 @@ My research focuses on developing multimodal large language models (MLLMs) that 
 # 📝 Publications 
 
 - <b>Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents</b><br>
-[[project page]](https://memorytransfer.github.io/) [[paper]]() [[code]]() <br>
+[[project page]](https://memorytransfer.github.io/) [[paper]](https://arxiv.org/abs/2604.14004) [[code]](https://github.com/KangsanKim07/MemoryTransferLearning) <br>
 &#x200B;<span style="color:darkblue">**Kangsan Kim**</span>, Minki Kang, Taeil Kim, Yanlai Yang, Mengye Ren†, Sung Ju Hwang† <br>
 **under review** 2026
 
