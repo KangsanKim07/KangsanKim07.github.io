@@ -24,7 +24,7 @@ redirect_from:
 
 I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://www.mlai-kaist.com)), fortunate to be advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com). 
 
-My research focuses on developing multimodal large language models (MLLMs) that understand the world and interact with humans through visual data. I have previously worked on video understanding and multimodal Retrieval-Augmented Generation (RAG). I am also interested in embodied AI models that operate on egocentric video and real-world agents such as computer use agents and coding agents.
+My research focuses on developing autonomous AI agents that can perceive, reason, and act in the real world, spanning coding, computer use, and embodied agents. I have previously worked on building memory in these agents that accumulates from past experience, enabling self-evolution, as well as retrieving knowledge from heterogeneous multimodal sources. Recently, I have also been interested in training agents through reinforcement learning to optimize behavior for specific tasks and objectives.
 
 # 🔥 News
 - *2026.04*: &nbsp;📖 Memory Transfer Learning, which studies cross-domain memory transfer in coding agents, is released on [arxiv](https://arxiv.org/abs/2604.14004).
@@ -54,7 +54,7 @@ My research focuses on developing multimodal large language models (MLLMs) that 
 &#x200B;Woongyeong Yeo\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Jaehong Yoon†, Sung Ju Hwang† <br>
 Conference on Computer Vision and Pattern Recognition (**CVPR**) 2026 <span style="color:darkred">**Highlight**</span>
 
-- <b>HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model</b> <br>
+- <b>HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model</b> <br>
 [[project page]](https://youngwanlee.github.io/holisafe/) [[paper]](https://www.arxiv.org/abs/2506.04704) [[code]](https://github.com/youngwanLEE/holisafe) <br>
 &#x200B;Youngwan Lee, <span style="color:darkblue">**Kangsan Kim**</span>, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
 Findings of Conference on Computer Vision and Pattern Recognition (**CVPR Findings**) 2026
