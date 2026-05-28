@@ -27,7 +27,7 @@ I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://w
 My research focuses on developing autonomous AI agents that can perceive, reason, and act in the real world, spanning coding, computer use, and embodied agents. I have previously worked on building memory in these agents that accumulates from past experience, enabling self-evolution, as well as retrieving knowledge from heterogeneous multimodal sources. Recently, I have also been interested in training agents through reinforcement learning to optimize behavior for specific tasks and objectives.
 
 # 🔥 News
-- *2026.05*: &nbsp;📖 LearnWeak and SelfCI are released on arxiv.
+- *2026.05*: &nbsp;📖 [LearnWeak](https://learnweak.github.io/) and [SelfCI](https://arxiv.org/abs/2605.20258) are released on arxiv.
 - *2026.05*: &nbsp;🥈Selected as a Silver Reviewer of ICML 2026!
 - *2026.04*: &nbsp;📖 Memory Transfer Learning, which studies cross-domain memory transfer in coding agents, is released on [arxiv](https://arxiv.org/abs/2604.14004).
 - *2026.04*: &nbsp;🇺🇸 UniversalRAG got accepted to ACL 2026 Main!
