@@ -73,7 +73,7 @@ Findings of Conference on Computer Vision and Pattern Recognition (**CVPR Findin
 
 - <b>UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</b> <br>
 [[project page]](https://universalrag.github.io/) [[paper]](https://arxiv.org/abs/2504.20734) [[code]](https://github.com/wgcyeo/UniversalRAG) <br>
-&#x200B;Woongyeong Yeo\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang <br>
+&#x200B;Woongyeong Yeo\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Soyeong Jeong, Jinheon Baek†, Sung Ju Hwang† <br>
 Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026
 
 - <b>VideoRAG: Retrieval-Augmented Generation over Video Corpus</b> <br>
