@@ -44,22 +44,22 @@ My research focuses on developing autonomous AI agents that can perceive, reason
 - <b>Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents</b><br>
 [[project page]](https://learnweak.github.io/) [[paper]](https://arxiv.org/abs/2605.28775) [[code]](https://github.com/sujiikim/LearnWeak) <br>
 &#x200B; Suji Kim\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Sung Ju Hwang<br>
-**under review** 2026
+Preprint 2026
 
 - <b>It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs</b><br>
 [[paper]](https://arxiv.org/abs/2605.20258) [[code]](https://github.com/sw-programmer/SelfCI) <br>
 &#x200B;Sangwoo Park\*, Woongyeong Yeo\*, Seanie Lee, Yumin Choi, Hyomin Lee, <span style="color:darkblue">**Kangsan Kim**</span>, Jinheon Baek†, Seong Joon Oh†, Sung Ju Hwang† <br>
-**under review** 2026
+Preprint 2026
 
 - <b>Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents</b><br>
 [[project page]](https://memorytransfer.github.io/) [[paper]](https://arxiv.org/abs/2604.14004) [[code]](https://github.com/KangsanKim07/MemoryTransferLearning) <br>
 &#x200B;<span style="color:darkblue">**Kangsan Kim**</span>, Minki Kang, Taeil Kim, Yanlai Yang, Mengye Ren†, Sung Ju Hwang† <br>
-**under review** 2026
+Preprint 2026
 
 - <b>MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents</b><br>
 [[project page]](https://ma-egoqa.github.io/) [[paper]](https://arxiv.org/abs/2603.09827) [[code]](https://github.com/KangsanKim07/MA-EgoQA) <br>
 &#x200B;<span style="color:darkblue">**Kangsan Kim**</span>, Yanlai Yang, Suji Kim, Woongyeong Yeo, Youngwan Lee, Mengye Ren†, Sung Ju Hwang† <br>
-**under review** 2026
+Preprint 2026
 
 - <b>WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning</b> <br>
 [[project page]](https://worldmm.github.io/) [[paper]](https://arxiv.org/abs/2512.02425) [[code]](https://github.com/wgcyeo/WorldMM) <br>
