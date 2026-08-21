@@ -27,19 +27,25 @@ I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://w
 My research focuses on developing autonomous AI agents that can perceive, reason, and act in the real world, spanning coding, computer use, and embodied agents. I have previously worked on building memory in these agents that accumulates from past experience, enabling self-evolution, as well as retrieving knowledge from heterogeneous multimodal sources. Recently, I have also been interested in training agents through reinforcement learning to optimize behavior for specific tasks and objectives.
 
 # 🔥 News
+- *2026.08*: &nbsp;🇭🇺 Memory Transfer Learning got accepted to EMNLP 2026 Main and Agent Memory Distillation got accepted to EMNLP 2026 Findings!
 - *2026.05*: &nbsp;📖 [LearnWeak](https://learnweak.github.io/) and [SelfCI](https://arxiv.org/abs/2605.20258) are released on arxiv.
 - *2026.05*: &nbsp;🥈Selected as a Silver Reviewer of ICML 2026!
 - *2026.04*: &nbsp;📖 Memory Transfer Learning, which studies cross-domain memory transfer in coding agents, is released on [arxiv](https://arxiv.org/abs/2604.14004).
 - *2026.04*: &nbsp;🇺🇸 UniversalRAG got accepted to ACL 2026 Main!
 - *2026.03*: &nbsp;📖 MA-EgoQA: Multi-Agent Egocentric Video QA is released on [arxiv](https://arxiv.org/abs/2603.09827).
 - *2026.02*: &nbsp;🇺🇸 WorldMM got accepted to CVPR 2026 Highlight, and HoliSafe got accepted to CVPR 2026 Findings!
-- *2025.07*: &nbsp;<img src="assets/nyu.png" alt="NYU" width="20" style="vertical-align: middle;" /> Joined NYU as a visiting student under Prof. [Mengye Ren](https://mengyeren.com).
-- *2025.05*: &nbsp;📖 HoliSafe is released on [arXiv](https://www.arxiv.org/abs/2506.04704).
+<!-- - *2025.07*: &nbsp;<img src="assets/nyu.png" alt="NYU" width="20" style="vertical-align: middle;" /> Joined NYU as a visiting student under Prof. [Mengye Ren](https://mengyeren.com). -->
+<!-- - *2025.05*: &nbsp;📖 HoliSafe is released on [arXiv](https://www.arxiv.org/abs/2506.04704). -->
 <!-- - *2025.05*: &nbsp;🇦🇹 VideoRAG got accepted to ACL Findings 2025. -->
 <!-- - *2025.04*: &nbsp;📖 UniversalRAG is released on [arXiv](https://arxiv.org/abs/2504.20734). -->
 <!-- - *2025.02*: &nbsp;🇺🇸 VideoICL got accepted to CVPR 2025. -->
 
 # 📝 Publications 
+
+- <b>Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory</b><br>
+[[project page]](https://agent-memory-distillation.github.io/#) [[paper]](https://arxiv.org/abs/2608.07169) [[code]](https://github.com/taeilkim2465/agentic_memory_distillation/tree/main) <br>
+&#x200B; Taeil Kim\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Sung Ju Hwang<br>
+Findings of the Association for Computational Linguistics (**EMNLP Findings**) 2026
 
 - <b>Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents</b><br>
 [[project page]](https://learnweak.github.io/) [[paper]](https://arxiv.org/abs/2605.28775) [[code]](https://github.com/sujiikim/LearnWeak) <br>
@@ -54,7 +60,7 @@ Preprint 2026
 - <b>Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents</b><br>
 [[project page]](https://memorytransfer.github.io/) [[paper]](https://arxiv.org/abs/2604.14004) [[code]](https://github.com/KangsanKim07/MemoryTransferLearning) <br>
 &#x200B;<span style="color:darkblue">**Kangsan Kim**</span>, Minki Kang, Taeil Kim, Yanlai Yang, Mengye Ren†, Sung Ju Hwang† <br>
-Preprint 2026
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2026 
 
 - <b>MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents</b><br>
 [[project page]](https://ma-egoqa.github.io/) [[paper]](https://arxiv.org/abs/2603.09827) [[code]](https://github.com/KangsanKim07/MA-EgoQA) <br>
@@ -74,7 +80,7 @@ Findings of Conference on Computer Vision and Pattern Recognition (**CVPR Findin
 - <b>UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</b> <br>
 [[project page]](https://universalrag.github.io/) [[paper]](https://arxiv.org/abs/2504.20734) [[code]](https://github.com/wgcyeo/UniversalRAG) <br>
 &#x200B;Woongyeong Yeo\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Soyeong Jeong, Jinheon Baek†, Sung Ju Hwang† <br>
-Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026
+Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026 <span style="color:darkred">**Oral**</span>
 
 - <b>VideoRAG: Retrieval-Augmented Generation over Video Corpus</b> <br>
 [[paper]](https://arxiv.org/abs/2501.05874) [[poster]](assets/poster/VideoRAG.pdf) [[code]](https://github.com/starsuzi/VideoRAG) <br>
@@ -119,4 +125,4 @@ Built and improved end-to-end Korean-English speech translation model.
 *2025.09*, NYU Global AI Frontier Lab, Brooklyn, NY, USA
 
 # 💯 Academic Service
-- Reviewer of ARR 2026, ICML 2026 (Silver Reviewer), and NeurIPS 2026
+- Reviewer of ARR 2026, ICML 2026 (Silver Reviewer), NeurIPS 2026, and AAAI 2027
