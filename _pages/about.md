@@ -45,7 +45,7 @@ My research focuses on developing autonomous AI agents that can perceive, reason
 - <b>Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory</b><br>
 [[project page]](https://agent-memory-distillation.github.io/#) [[paper]](https://arxiv.org/abs/2608.07169) [[code]](https://github.com/taeilkim2465/agentic_memory_distillation/tree/main) <br>
 &#x200B; Taeil Kim\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Sung Ju Hwang<br>
-Findings of the Association for Computational Linguistics (**EMNLP Findings**) 2026
+EMNLP Findings 2026
 
 - <b>Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents</b><br>
 [[project page]](https://learnweak.github.io/) [[paper]](https://arxiv.org/abs/2605.28775) [[code]](https://github.com/sujiikim/LearnWeak) <br>
@@ -60,7 +60,7 @@ Preprint 2026
 - <b>Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents</b><br>
 [[project page]](https://memorytransfer.github.io/) [[paper]](https://arxiv.org/abs/2604.14004) [[code]](https://github.com/KangsanKim07/MemoryTransferLearning) <br>
 &#x200B;<span style="color:darkblue">**Kangsan Kim**</span>, Minki Kang, Taeil Kim, Yanlai Yang, Mengye Ren†, Sung Ju Hwang† <br>
-Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2026 
+EMNLP 2026 
 
 - <b>MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents</b><br>
 [[project page]](https://ma-egoqa.github.io/) [[paper]](https://arxiv.org/abs/2603.09827) [[code]](https://github.com/KangsanKim07/MA-EgoQA) <br>
@@ -70,27 +70,27 @@ Preprint 2026
 - <b>WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning</b> <br>
 [[project page]](https://worldmm.github.io/) [[paper]](https://arxiv.org/abs/2512.02425) [[code]](https://github.com/wgcyeo/WorldMM) <br>
 &#x200B;Woongyeong Yeo\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Jaehong Yoon†, Sung Ju Hwang† <br>
-Conference on Computer Vision and Pattern Recognition (**CVPR**) 2026 <span style="color:darkred">**Highlight**</span>
+CVPR 2026 <span style="color:darkred">**Highlight**</span>
 
 - <b>HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model</b> <br>
 [[project page]](https://youngwanlee.github.io/holisafe/) [[paper]](https://www.arxiv.org/abs/2506.04704) [[code]](https://github.com/youngwanLEE/holisafe) <br>
 &#x200B;Youngwan Lee, <span style="color:darkblue">**Kangsan Kim**</span>, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
-Findings of Conference on Computer Vision and Pattern Recognition (**CVPR Findings**) 2026
+CVPR Findings 2026
 
 - <b>UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities</b> <br>
 [[project page]](https://universalrag.github.io/) [[paper]](https://arxiv.org/abs/2504.20734) [[code]](https://github.com/wgcyeo/UniversalRAG) <br>
 &#x200B;Woongyeong Yeo\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Soyeong Jeong, Jinheon Baek†, Sung Ju Hwang† <br>
-Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026 <span style="color:darkred">**Oral**</span>
+ACL 2026 <span style="color:darkred">**Oral**</span>
 
 - <b>VideoRAG: Retrieval-Augmented Generation over Video Corpus</b> <br>
 [[paper]](https://arxiv.org/abs/2501.05874) [[poster]](assets/poster/VideoRAG.pdf) [[code]](https://github.com/starsuzi/VideoRAG) <br>
 &#x200B;Soyeong Jeong\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Jinheon Baek\*, Sung Ju Hwang <br>
-Findings of the Association for Computational Linguistics (**ACL Findings**) 2025
+ACL Findings 2025
 
 - <b>VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding</b> <br>
 [[paper]](https://arxiv.org/abs/2412.02186) [[poster]](https://drive.google.com/file/d/1bSE0MZVCmNDr8i_FSfOsGmgKpLCaS9Kf/view?usp=sharing) [[code]](https://github.com/KangsanKim07/VideoICL) <br>
 &#x200B;<span style="color:darkblue">**Kangsan Kim\***</span>, Geon Park\*, Youngwan Lee, Woongyeong Yeo, Sung Ju Hwang <br>
-Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025
+CVPR 2025
 
 (*: equal contribution, †: equal advising)
 
