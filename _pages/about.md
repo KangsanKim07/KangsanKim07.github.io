@@ -112,7 +112,7 @@ Developed an ultra-fast edge instance segmentation model that can segment anythi
 
 - <b>Machine Learning(NLP) Scientist Intern, [NAVER](https://papago.naver.com/)</b> <br>
 *2021.07 - 2021.10*, Remote <br>
-Built and improved end-to-end Korean-English speech translation model.
+Built and improved end-to-end Korean-English speech translation model at PAPAGO.
 
 # 📖 Educations
 - *2024.03 - Current*, Ph.D. in Artificial Intelligence, Korea Advanced Institute of Science and Technology (KAIST).
