@@ -28,7 +28,7 @@ My research focuses on developing autonomous AI agents that can perceive, reason
 
 # 🔥 News
 - *2026.09*: &nbsp;<img src="assets/amazon-logo.png" alt="Amazon" width="20" style="vertical-align: middle;" /> Started my internship at Amazon in Seattle!
-- *2026.08*: &nbsp;🇭🇺 Memory Transfer Learning got accepted to EMNLP 2026 Main and Agent Memory Distillation got accepted to EMNLP 2026 Findings!
+- *2026.08*: &nbsp;🇭🇺 Memory Transfer Learning got accepted to EMNLP 2026 Main and Agent Memory Distillation to EMNLP 2026 Findings!
 - *2026.05*: &nbsp;📖 [LearnWeak](https://learnweak.github.io/) and [SelfCI](https://arxiv.org/abs/2605.20258) are released on arxiv.
 - *2026.05*: &nbsp;🥈Selected as a Silver Reviewer of ICML 2026!
 - *2026.04*: &nbsp;📖 Memory Transfer Learning, which studies cross-domain memory transfer in coding agents, is released on [arxiv](https://arxiv.org/abs/2604.14004).
