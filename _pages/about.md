@@ -45,12 +45,12 @@ My research focuses on developing autonomous AI agents that can perceive, reason
 
 - <b>Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory</b><br>
 [[project page]](https://agent-memory-distillation.github.io/#) [[paper]](https://arxiv.org/abs/2608.07169) [[code]](https://github.com/taeilkim2465/agentic_memory_distillation/tree/main) <br>
-&#x200B; Taeil Kim\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Sung Ju Hwang<br>
+&#x200B;Taeil Kim\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Sung Ju Hwang<br>
 EMNLP Findings 2026
 
 - <b>Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents</b><br>
 [[project page]](https://learnweak.github.io/) [[paper]](https://arxiv.org/abs/2605.28775) [[code]](https://github.com/sujiikim/LearnWeak) <br>
-&#x200B; Suji Kim\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Sung Ju Hwang<br>
+&#x200B;Suji Kim\*, <span style="color:darkblue">**Kangsan Kim\***</span>, Sung Ju Hwang<br>
 Preprint 2026
 
 - <b>It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs</b><br>
