@@ -96,7 +96,7 @@ CVPR 2025
 (*: equal contribution, †: equal advising)
 
 # 💻 Experiences
-- <b>Applied Scientist Intern, Amazon</b> <br>
+- <b>Applied Scientist Intern, [Amazon](https://www.aboutamazon.com/about-us)</b> <br>
 *2026.09 - Current*, Seattle, WA, USA <br>
 Mentor: [Jayakrishnan Unnikrishnan](https://www.linkedin.com/in/jayakrishnan-unnikrishnan-86b14162) and [Bhagyashree Puranik](https://www.linkedin.com/in/bhagyashree-puranik-1b1279a1) <br>
 Studying long-video reasoning agents under latency budgets at Amazon Prime Video.
