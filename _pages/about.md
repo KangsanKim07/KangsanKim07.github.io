@@ -22,11 +22,12 @@ redirect_from:
 
 ---
 
-I am a Ph.D. student in the Graduate School of AI at KAIST ([MLAI lab](https://www.mlai-kaist.com)), fortunate to be advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com). 
+I am a Ph.D. student at the Graduate School of AI at KAIST ([MLAI lab](https://www.mlai-kaist.com)), fortunate to be advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com). I am currently working as an Applied Scientist Intern at Amazon, mentored by [Jayakrishnan Unnikrishnan](https://www.linkedin.com/in/jayakrishnan-unnikrishnan-86b14162) and [Bhagyashree Puranik](https://www.linkedin.com/in/bhagyashree-puranik-1b1279a1). I have also been a visiting scholar at New York University, where I collaborated with Prof. [Mengye Ren](https://mengyeren.com/).  
 
 My research focuses on developing autonomous AI agents that can perceive, reason, and act in the real world, spanning coding, computer use, and embodied agents. I have previously worked on building memory in these agents that accumulates from past experience, enabling self-evolution, as well as retrieving knowledge from heterogeneous multimodal sources. Recently, I have also been interested in training agents through reinforcement learning to optimize behavior for specific tasks and objectives.
 
 # 🔥 News
+- *2026.09*: &nbsp;<img src="assets/amazon.jpeg" alt="Amazon" width="20" style="vertical-align: middle;" /> Started my internship at Amazon in Seattle!
 - *2026.08*: &nbsp;🇭🇺 Memory Transfer Learning got accepted to EMNLP 2026 Main and Agent Memory Distillation got accepted to EMNLP 2026 Findings!
 - *2026.05*: &nbsp;📖 [LearnWeak](https://learnweak.github.io/) and [SelfCI](https://arxiv.org/abs/2605.20258) are released on arxiv.
 - *2026.05*: &nbsp;🥈Selected as a Silver Reviewer of ICML 2026!
@@ -95,6 +96,11 @@ CVPR 2025
 (*: equal contribution, †: equal advising)
 
 # 💻 Experiences
+- <b>Applied Scientist Intern, Amazon</b> <br>
+*2026.09 - Current*, Seattle, WA, USA <br>
+Mentor: [Jayakrishnan Unnikrishnan](https://www.linkedin.com/in/jayakrishnan-unnikrishnan-86b14162) and [Bhagyashree Puranik](https://www.linkedin.com/in/bhagyashree-puranik-1b1279a1) <br>
+Studying long-video reasoning agents under latency budgets.
+
 - <b>Visiting Ph.D. Student, [New York University](https://www.nyu.edu)</b> <br>
 *2025.07 - 2025.10*, Brooklyn, NY, USA  <br>
 Advisor: Prof. [Mengye Ren](https://mengyeren.com) <br>
